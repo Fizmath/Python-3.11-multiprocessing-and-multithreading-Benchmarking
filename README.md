@@ -22,7 +22,7 @@ Open a `CMD` in the folder where you put the [multi-proc_thread.py](multi-proc_t
 docker run -it --rm --privileged -v $(pwd):/myapp python:3.10.8-bullseye bash
 ```
 
-it immeditely falls into the docker shel, type ` ls myapp/` to make sure that you are on the right path :
+it immeditely falls into the docker shell , type ` ls myapp/` to make sure that you are on the right path :
 
 ```bash
 root@xxxxxx:/# ls myapp/
