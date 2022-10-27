@@ -58,7 +58,7 @@ docker run -it --rm --privileged -v $(pwd):/myapp python:3.11.0-bullseye bash
 
 then run the test again  ...
 
-with `ntel®Core  i7 11800 ` i got these results :
+with `intel®Core  i7 11800 ` i got these results :
 
 
 
