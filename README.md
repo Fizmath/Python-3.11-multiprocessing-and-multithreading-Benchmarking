@@ -62,7 +62,7 @@ with `intel®Core  i7 11800 ` i got these results :
 
 
 
-|Benchmark        | py3.10.9         |  py3.11.0        | 
+|Benchmark        | py3.10.8         |  py3.11.0        | 
 | ------------- |-------------|:-------------:|
 | NO_thread        | 10.16 s     | 8.97  s ->   12% faster     |
 | Threads(5,)      | 50.61 s     | 45.14 s ->   11% faster     |
